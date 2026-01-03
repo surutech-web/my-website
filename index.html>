@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Suresh | Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Suresh Singh khati</h1>
+        <p>  | App Developer| Ethical hacker | web Developer|............</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>
+            Hi, i am suresh singh khati. i enjoy building simple, functional things with code.i am focused 
+            on programming,ethical hacking  web devlopment, and learning how technology works in the real world.
+            This is my personal website where i share my projects,skills,growth and blog about the things 
+            i learn along the way. thank you for visiting!
+            
+        </p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: sureshsinghkhati6@gmail.com</p>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
